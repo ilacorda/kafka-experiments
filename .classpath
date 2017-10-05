@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry excluding="src/main/java/" kind="src" path=""/>
+	<classpathentry kind="src" path="src/main/java"/>
+	<classpathentry kind="lib" path="/Users/ilariacorda/Downloads/kafka-clients-0.10.2.1.jar"/>
+	<classpathentry kind="lib" path="/Users/ilariacorda/Downloads/kafka_2.11-0.10.0.0.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
